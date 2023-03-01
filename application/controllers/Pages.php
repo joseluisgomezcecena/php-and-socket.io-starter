@@ -1,8 +1,10 @@
 <?php
-
 use ElephantIO\Client;
 use ElephantIO\Engine\SocketIO\Version2X;
 use Twilio\Rest\Client as TwilioClient;
+
+
+require APPPATH . '/vendor/autoload.php';
 
 class Pages extends CI_Controller
 {
