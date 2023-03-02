@@ -30,7 +30,6 @@ class Pages extends CI_Controller
 		$client->close();
 
 
-
 		$this->load->view('pages/' . $page, $data); //loading page and data
 
 	}
@@ -40,9 +39,9 @@ class Pages extends CI_Controller
 	public function getAlertDetails($alert_id, $company_id)
 	{
 		//get alert details with ajax.
-		$this->load->model('Alerts_model');
+		//$this->load->model('Alerts_model');
 
-		$alert = $this->Alerts_model->getAlert($alert_id, $company_id);
+		//$alert = $this->Alerts_model->getAlert($alert_id, $company_id);
 
 	}
 
