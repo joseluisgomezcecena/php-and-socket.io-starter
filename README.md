@@ -276,5 +276,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [Php.com]: https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white
 [Php-url]: https://jquery.com
-[Socket.com]: https://img.shields.io/badge/socketio-black?style=for-the-badge&logo=socket.io&logoColor=white
+[Socket.com]: https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socket.io&logoColor=black
 [Socket-url]: https://microsoft.com
