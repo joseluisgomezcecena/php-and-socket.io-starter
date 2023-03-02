@@ -109,6 +109,10 @@ Here is a list of software used to develop this project.
 * [![Socket.io][Socket.com]][Socket-url]
 * [![Codeigniter][Codeigniter.com]][Codeigniter-url]
 * [![Php][Php.com]][Php-url]
+* [![NodeJS][Node.com]][Node-url]
+* [![Express][Express.com]][Express-url]
+
+* 
 <!--
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -264,10 +268,10 @@ Use this space to list resources you find helpful and would like to give credit 
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
+[Node.js]: https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js&logoColor=white
+[Node-url]: https://vuejs.org/
+[Express.com]: https://img.shields.io/badge/express-blue?style=for-the-badge&logo=express&logoColor=white
+[Express-url]: https://angular.io/
 [Codeigniter.com]: https://img.shields.io/badge/codeigniter-red?style=for-the-badge&logo=codeigniter&logoColor=white
 [Codeigniter-url]: https://svelte.dev/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
