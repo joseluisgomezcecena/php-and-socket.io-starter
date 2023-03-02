@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/1200px-Socket-io.svg.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Socket.io and PHP App</h3>
@@ -109,10 +109,9 @@ Here is a list of software used to develop this project.
 * [![Socket.io][Socket.com]][Socket-url]
 * [![Codeigniter][Codeigniter.com]][Codeigniter-url]
 * [![Php][Php.com]][Php-url]
-* [![NodeJS][Node.com]][Node-url]
+* [![Node][Node.com]][Node-url]
 * [![Express][Express.com]][Express-url]
 
-* 
 <!--
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
