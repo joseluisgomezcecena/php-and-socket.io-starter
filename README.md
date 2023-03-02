@@ -106,7 +106,7 @@ Use the `BLANK_README.md` to get started.
 
 Here is a list of software used to develop this project.
 
-* [![Socket.io][Socketio.com]][Socketio-url]
+* [![Socket.io][Socket.com]][Socket-url]
 * [![Codeigniter][Codeigniter.com]][Codeigniter-url]
 * [![Php][Php.com]][Php-url]
 <!--
